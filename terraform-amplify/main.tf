@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 variable "github_token" {
-  description = "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"
+  description = "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"
   type        = string
   sensitive   = true
 }
